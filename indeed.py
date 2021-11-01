@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
+
+
 LIMIT = 10
 URL = "https://kr.indeed.com/%EC%B7%A8%EC%97%85?q=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C&l=%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C"
 
